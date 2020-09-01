@@ -2,7 +2,7 @@ name: Vala Code
 desc: Vala support for Visual Studio Code
 permalink: /:name/
 excerpt_separator: ""
-repro: vala-code
+repro: vala-code-web
 exclude:
   - pubspec.yaml
   - tool/
