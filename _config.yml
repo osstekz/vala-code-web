@@ -9,10 +9,10 @@ exclude:
 collections:
   docs:
     output: true
-    permalink: /vala-code-web/docs/:name/
+    permalink: /docs/:name/
   releases:
     output: true
-    permalink: /vala-code-web/releases/:name/
+    permalink: /releases/:name/
 defaults:
   - scope:
       path: ""
