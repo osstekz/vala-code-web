@@ -2,13 +2,18 @@
 title: Settings
 ---
 
-<!-- TODO: Add a validation script that compares master package.json to this list -->
+There are a number of settings for the Dart and Flutter extensions that can be modified in VS Code's [User Settings or Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings).
 
-Dart Code adds a number of commands to the command palette (`Ctrl`+`Shift`+`P` or `Cmd`+`Shift`+`P`).
+The settings described here are documented by their JSON keys, though most of them can also be edited in the settings UI in VS Code by clicking the **Vala-Code** section under **Extensions**.
 
 * TOC
 {:toc}
 
-## Adding Key Bindings for Commands
+# Window Scoped Settings
 
-For information on key bindings, including how to add your own, see [Key Bindings](/docs/key-bindings/)
+Window scoped settings must be applied in your User Settings or at the workspace level and will apply for all projects open in a window (for example, `vala.sdkPath` is used to launch an analyzer that is used for the whole window).
+
+## vala.code.allowAnalytics
+**Default:** `true`.
+<br />
+Whether to send analytics such as startup timings, frequency of use of features and analysis server crashes.
