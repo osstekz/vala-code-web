@@ -1,1 +1,4 @@
-add new content 
+---
+title: Extension Settings
+---
+
