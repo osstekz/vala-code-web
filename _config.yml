@@ -4,12 +4,14 @@ permalink: /:name/
 excerpt_separator: ""
 repro: vala-code-web
 exclude:
-  - pubspec.yaml
-  - tool/
+  - pubspec.yaml  
 collections:
   docs:
     output: true
     permalink: /docs/:name/
+  tools:
+    output: true
+    permalink: /tools/:name/
   releases:
     output: true
     permalink: /releases/:name/
@@ -22,6 +24,11 @@ defaults:
   - scope:
       path: "_docs"
       type: docs
+    values:
+      layout: doc
+  - scope:
+      path: "_tools"
+      type: tools
     values:
       layout: doc
   - scope:
