@@ -44,5 +44,6 @@ Application Options:
   --log=<prefix>%003d.log            Log to filename
 
 Email:osstekz@gmail.com
-Copyright © 2016-2020 George Aslanis```
+Copyright © 2016-2020 George Aslanis
+```
 
