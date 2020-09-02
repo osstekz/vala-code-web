@@ -41,9 +41,9 @@ This extension reports some analytics such as:
 - Extension load and analysis times
 - Whether you have disabled some settings (such as showing TODOs in Problems Window or Closing Labels)
 - Frequency of use of features like Hot Reload, Hot Restart and Open Observatory
-- Crashes in the Dart analysis server
+- Crashes in the Vala analysis server
 
-Reporting can be disabled via the [`vala.allowAnalytics` setting](/docs/settings/#dartallowanalytics).
+Reporting can be disabled via the [`vala.code.allowAnalytics` setting](/docs/settings/#vala.code.allowanalytics).
 
 
 ## Release Notes
