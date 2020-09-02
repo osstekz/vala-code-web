@@ -9,7 +9,7 @@ effectively editing, refactoring, running, and debugging vala apps.
 
 ## Installation
 
-Vala-Code development components can be [installed from my Github PPA](https://github.com/osstekz/vala-code/tree/master/ppa). You must have [the VS Code Editor](https://code.visualstudio.com/) in order to run the Vala-Code extension.
+Vala-Code development components can be [installed from my Github PPA](https://github.com/osstekz/vala-code/tree/master/ppa). You must have [VS Code Insiders](https://code.visualstudio.com/insiders/) or [VS Code Editor](https://code.visualstudio.com/) in order to run the Vala-Code extension.
 
 ## Features
 
