@@ -4,6 +4,7 @@ title: vlangsrvc
 
 
 ## Language Server Options/Commands
+```
 Usage:
   vlangsrvc.exe [OPTION…] - Vala Language Server
 
@@ -27,4 +28,5 @@ Application Options:
   --theme                         Theme(`none`,`light`,`dark`)
   --verbose                       Print additional messages to the console
   --version                       Display version number
-  --logpat=<prefix>%003d.log      Log to filename using pattern
+  --logpat=<prefix>%003d.log      Log to filename using pattern```
+
