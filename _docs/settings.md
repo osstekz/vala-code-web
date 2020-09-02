@@ -17,3 +17,4 @@ Window scoped settings must be applied in your User Settings or at the workspace
 **Default:** `true`.
 <br />
 Whether to send analytics such as startup timings, frequency of use of features and analysis server crashes.
+
