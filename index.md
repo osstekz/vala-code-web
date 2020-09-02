@@ -43,7 +43,7 @@ This extension reports some analytics such as:
 - Frequency of use of features like Hot Reload, Hot Restart and Open Observatory
 - Crashes in the Dart analysis server
 
-Reporting can be disabled via the [`dart.allowAnalytics` setting](/docs/settings/#dartallowanalytics).
+Reporting can be disabled via the [`vala.allowAnalytics` setting](/docs/settings/#dartallowanalytics).
 
 
 ## Release Notes
