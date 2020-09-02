@@ -30,7 +30,7 @@ defaults:
       path: "_tools"
       type: tools
     values:
-      layout: doc
+      layout: tool
   - scope:
       path: _releases
       type: releases
