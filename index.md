@@ -9,7 +9,7 @@ effectively editing, refactoring, running, and debugging vala apps.
 
 ## Installation
 
-You must have [the VS Code Editor](https://code.visualstudio.com/) in order to install/run the Vala-Code extension.
+Vala-Code can be [installed from its Github PPA](https://github.com/osstekz/vala-code). You must have [the VS Code Editor](https://code.visualstudio.com/) in order to run the Vala-Code extension.
 
 ## Features
 
