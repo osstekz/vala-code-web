@@ -1,8 +1,13 @@
 ---
 title: vBuildr
 ---
-# Language Server Options/Commands
 
+
+---
+title: vBuildr
+---
+
+## vBuildr Options/Commands
 Usage:
   vbuildr.exe [OPTION…] - Vala make/builder
 
