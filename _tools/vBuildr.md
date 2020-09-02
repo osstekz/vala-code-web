@@ -1,4 +1,8 @@
----\ntitle: vBuildr\n---\n# Language Server Options/Commands\n
+---
+title: vBuildr
+---
+# Language Server Options/Commands
+
 Usage:
   vbuildr.exe [OPTION…] - Vala make/builder
 

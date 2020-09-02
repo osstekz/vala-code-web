@@ -1,4 +1,8 @@
----\ntitle: vBuildr\n---\n# Language Server Options/Commands\n
+---
+title: vBuildr
+---
+# Language Server Options/Commands
+
 Usage:
   vlangsrvc.exe [OPTION…] - Vala Language Server
 
