@@ -2,7 +2,7 @@
 title: Settings
 ---
 
-There are a number of settings for the Dart and Flutter extensions that can be modified in VS Code's [User Settings or Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings).
+There are a number of settings for the Vala extension that can be modified in VS Code's [User Settings or Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings).
 
 The settings described here are documented by their JSON keys, though most of them can also be edited in the settings UI in VS Code by clicking the **Vala-Code** section under **Extensions**.
 
@@ -11,10 +11,9 @@ The settings described here are documented by their JSON keys, though most of th
 
 # Window Scoped Settings
 
-Window scoped settings must be applied in your User Settings or at the workspace level and will apply for all projects open in a window (for example, `vala.sdkPath` is used to launch an analyzer that is used for the whole window).
+Window scoped settings must be applied in your User Settings or at the workspace level and will apply for all projects open in a window (for example, `vala.code.enableDebugger` is used to enable server debugging).
 
 ## vala.code.allowAnalytics
 **Default:** `true`.
 <br />
 Whether to send analytics such as startup timings, frequency of use of features and analysis server crashes.
-
