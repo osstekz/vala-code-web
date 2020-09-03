@@ -3,7 +3,7 @@
 	<li {% if page.url contains "/docs/" %}class="current"{% endif %}><a href="/{{ site.repro }}/docs/">Docs</a></li>
 	<li {% if page.url contains "/tools/" %}class="current"{% endif %}><a href="/{{ site.repro }}/tools/">Tools</a></li>
 	<li {% if page.url contains "/faq/" %}class="current"{% endif %}><a href="/{{ site.repro }}/faq/">FAQ</a></li>
-	<li {% if page.url contains "/{{ site.repro }}/releases/" %}class="current"{% endif %}>
+	<li {% if page.url contains "/releases/" %}class="current"{% endif %}>
 		<a href="/{{ site.repro }}/releases/">Releases</a>
 		{% if page.url contains "/releases/" %}
 			{% assign releases = site.releases | sort: "sort_order" | reverse | slice: 0, 35 %}
