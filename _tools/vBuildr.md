@@ -4,8 +4,10 @@ title: vBuildr
 
 ## vBuildr Options/Commands
 
+
 ```
 
+Version: 
 Usage:
   vbuildr.exe [OPTION…] - Vala make/builder
 
@@ -48,3 +50,5 @@ Email:osstekz@gmail.com
 Copyright © 2016-2020 George Aslanis
 
 ```
+
+
