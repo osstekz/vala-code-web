@@ -7,6 +7,7 @@ title: vlangsrvc
 
 ```
 
+Version: 0.2.1
 Usage:
   vlangsrvc.exe [OPTION…] - Vala Language Server
 
